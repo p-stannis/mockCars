@@ -1,0 +1,52 @@
+{
+    "carros": [
+        {
+            "placa": "OYC-8990",
+            "descricaoModelo": "Audi A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": true
+        },
+        {
+            "placa": "OYB-8990",
+            "descricaoModelo": "Audi A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": false
+        },
+        {
+            "placa": "OYA-8990",
+            "descricaoModelo": "Fiat A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": true
+        },
+        {
+            "placa": "OYG-8990",
+            "descricaoModelo": "Wolks A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": false
+        },
+        {
+            "placa": "OYH-8990",
+            "descricaoModelo": "BMW A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": true
+        },
+        {
+            "placa": "OYL-8990",
+            "descricaoModelo": "FORD A4 TFSI Attraction S Tronic",
+            "descricaoCor": "Cinza",
+            "km": "52985",
+            "anoFabricacao": "2018",
+            "possuiFoto": true
+        }
+    ]
+}
